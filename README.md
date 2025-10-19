@@ -34,7 +34,7 @@ I'm just another lad creating stuff I like on the internet.
   <img title="PNPM" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" />
   <img title="MySQL" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img title="Wordpress" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-  <img title="VBA" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg" />
+  <img title="VBA" width="28px" src="https://raw.githubusercontent.com/DeltaZuluSigma/DeltaZuluSigma/master/assets/Microsoft_VBA.png" />
 </p>
 
 ### Game Dev
