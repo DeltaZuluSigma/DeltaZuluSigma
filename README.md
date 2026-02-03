@@ -2,9 +2,9 @@
 I'm just another lad creating stuff I like on the internet.
 
 ## Personal \[Pet\] Projects
-- 🔭 I’m currently working on [Complete Stacklands Cardopedia](https://github.com/DeltaZuluSigma/complete-stacklands-cardopedia)
+- 🔭 I’m currently working on: ...
 - 🌱 I’m currently learning: ~~MERN tech stack~~ CS50 AI
-- 🎮 Current Obsession: Bitburner \(and always Minecraft\)
+- 🎮 Current Obsession: ~~Bitburner~~ Arknights: Endfield
 
 ## Technologies
 ### Languages
