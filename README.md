@@ -2,7 +2,7 @@
 I'm just another lad creating stuff I like on the internet.
 
 ## Personal \[Pet\] Projects
-- 🔭 I’m currently working on: ...
+- 🔭 I’m currently working on: [AK Interactive Tierlist](https://github.com/DeltaZuluSigma/arknights-interactive-tierlist)
 - 🌱 I’m currently learning: ~~MERN tech stack~~ CS50 AI
 - 🎮 Current Obsession: ~~Bitburner~~ Arknights: Endfield
 
